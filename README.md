@@ -13,8 +13,9 @@ En este momento estoy buscando mi primera experiencia laboral en el area, entien
 Todos los proyectos que podés encontrar en este repositorio siguen en constante proceso, con el fin de perfeccionarlos a medida que adquiero nuevos conocimientos y mejores herramientas.
 
 Podés ver los mismos en 
-* felipelerner.com
-* noline.felipelerner.com
+* [felipelerner.com](www.felipelerner.com)
+* [noline.felipelerner.com](noline.felipelerner.com)
+
 
 #### 🧠 Skills.
 
