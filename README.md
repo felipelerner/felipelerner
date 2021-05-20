@@ -14,7 +14,7 @@ Todos los proyectos que podés encontrar en este repositorio siguen en constante
 
 Podés ver los mismos en 
 * www.felipelerner.com
-* www.noline.felipelerner.com
+* http://noline.felipelerner.com
 
 
 #### 🧠 Skills.
