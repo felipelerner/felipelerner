@@ -13,7 +13,7 @@ En este momento estoy buscando mi primera experiencia laboral en el area, entien
 Todos los proyectos que podés encontrar en este repositorio siguen en constante proceso, con el fin de perfeccionarlos a medida que adquiero nuevos conocimientos y mejores herramientas.
 
 Podés verlos en funcionamiento:
-* [Portfolio](www.felipelerner.com)
+* [Portfolio](felipelerner.com)
 * [Noline](http://noline.felipelerner.com)
 * [Naon - Sushi](http://naon.felipelerner.com)
 
