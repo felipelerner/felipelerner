@@ -1,4 +1,4 @@
-### 👋 Hola! Soy Felipe Lerner y este es mi repo.
+### 👋 Hola! Soy Felipe Lerner y este es mi repositorio.
 
 #### 📚 Formación.
 
