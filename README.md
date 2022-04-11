@@ -2,7 +2,7 @@
 
 #### 📚 Formación.
 
-Actualmente estoy terminando la carrera de Front End Developer en [Coderhouse](https://www.coderhouse.com/), complementando mi formación con distintos recursos y sitios como [Free Code Camp](https://www.freecodecamp.org/) 
+Estudié la carrera de Front End Developer en [Coderhouse](https://www.coderhouse.com/), complementando mi formación con distintos recursos y sitios como [Free Code Camp](https://www.freecodecamp.org/) 
 
 #### 👀 Búsqueda laboral.
 
