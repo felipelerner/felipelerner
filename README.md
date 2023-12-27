@@ -6,7 +6,7 @@ Estudié la carrera de Front End Developer en [Coderhouse](https://www.coderhous
 
 #### 👀 Búsqueda laboral.
 
-En este momento estoy buscando mi primera experiencia laboral en el area, entiendo que la mejor manera de seguir mi desarrollo es en un ambiente que fomente la práctica activa y la constante formación.
+En este momento estoy buscando dar un salto en mi carrera laboral, después de desarrollarme por casi tress años en una [Agencia de marketing y publicidad](https://www.cantalupe.com.ar/) cómo desarrollador web ssr, entiendo que la mejor manera de seguir mi desarrollo es en un ambiente que fomente la práctica activa y la constante formación.
 
 #### 💻 Proyectos.
 
@@ -25,6 +25,8 @@ En programación, tengo conocimientos en:
 * CSS3
 * Bootstrap
 * JavaScript
+* Wordpress
+* ReactJs
 * JQuery
 * Git
 
@@ -32,7 +34,7 @@ En diseño, tengo facilidad con las herramientas:
 * Photoshop
 * Illustrator
 * Adobe XD
-* Indesign
+* Figma
 
 #### 📫 Contactame!
 
